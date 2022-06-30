@@ -1,0 +1,8 @@
+[
+  {
+    "id": "fb43224fb93085dc",
+    "email": "test@dev.com",
+    "password": "$2b$10$f0675K9aAxn3rj8Fy9TRQebbajhziIxotQm8uEsTpNMYp88UyQGiO",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJpYXQiOjE2NTY1ODY3NTgsImV4cCI6MTY1NjY3MzE1OH0.76JgRbq4Kj5imsc0j2K1-IuSlZ2H0b2W2kTfTDyLOBQ"
+  }
+]
